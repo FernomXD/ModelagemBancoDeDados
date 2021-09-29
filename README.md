@@ -22,7 +22,7 @@ Obs: Utilizem Join, Left Join, Right Join preferencialmente.
 
 Crie o script para geração do banco de dados para atender a seguinte situação: 
 
-Você deverá fazer um sistema para controlar as vendas de um minimercado. É esperado que os seguintes requisitos sejam atendidos: 
+Você deverá modelar um banco para controlar as vendas de um minimercado. É esperado que os seguintes requisitos sejam atendidos: 
 
   
 
