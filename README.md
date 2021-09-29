@@ -3,7 +3,7 @@
 Exercício para avaliação de conhecimentos em sql. 
 
   
-
+## Exercício 1
 Baseado no arquivo .sql contido nesse repositório, criei os seguintes comandos sql: 
 
 Obs: Utilizem Join, Left Join, Right Join preferencialmente. 
@@ -18,11 +18,9 @@ Obs: Utilizem Join, Left Join, Right Join preferencialmente.
 
   
 
-  
+## Exercício 2
 
 Crie o script para geração do banco de dados para atender a seguinte situação: 
-
-  
 
 Você deverá fazer um sistema para controlar as vendas de um minimercado. É esperado que os seguintes requisitos sejam atendidos: 
 
