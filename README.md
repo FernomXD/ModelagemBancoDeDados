@@ -40,4 +40,4 @@ Você deverá fazer um sistema para controlar as vendas de um minimercado. É es
 
 Obs: Existem tabelas que estão implícitas ao enunciado e se farão necessário conforme forem adentrando ao exercício. Sintam-se livres para criar mais tabela do que foi listado no exercício. 
 
-Sintam-se livres para chamar qualquer um dos instrutures, principalmente o Fernando quando relacionado a esse exercício. Não fiquem acuados e qualquer dúvida ou sugestão podem chamar!
+#Sintam-se livres para chamar qualquer um dos instrutures, principalmente o Fernando quando relacionado a esse exercício. Não fiquem acuados e qualquer dúvida ou sugestão podem chamar!
