@@ -18,7 +18,7 @@ id int,
 nome varchar(50),
 idade int,
 id_cliente int,
-constraint PK_CLIENTE primary key (id),
+constraint PK_DEPENDENTE primary key (id),
 constraint FK_CLIENTE foreign key (id_cliente) references cliente (id));
 
 insert into tipo_cliente values (1, 'NOVO');
